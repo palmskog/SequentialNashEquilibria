@@ -1,0 +1,5 @@
+-R theories SequentialNashEquilibria
+
+theories/constSeqNashEq.v
+theories/slr_topo_sorting.v
+theories/slr_seq_spe_nash.v
